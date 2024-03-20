@@ -1,1 +1,1 @@
-# mrs323-simple-calculato
+mrs323-simple-calculator
